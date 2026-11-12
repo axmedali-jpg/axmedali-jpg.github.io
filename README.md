@@ -1,6 +1,4 @@
-# axmedali-jpg.github.io
-# Ahmed Ali and Personal IT Portfolio Website
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
